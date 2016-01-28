@@ -1,0 +1,1 @@
+InsertionSort.o: ../InsertionSort.cpp
